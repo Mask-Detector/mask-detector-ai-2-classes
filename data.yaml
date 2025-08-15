@@ -1,0 +1,4 @@
+path: .  # Ubah jika dijalankan dari luar root folder dataset
+train: images/train
+val: images/val
+names: ['mask', 'nomask']

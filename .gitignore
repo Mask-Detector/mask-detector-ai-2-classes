@@ -1,0 +1,9 @@
+# Ignore image directories
+images/
+imgs/
+
+# Ignore label files
+labels/
+
+# Ignore output files
+runs/detect/predict/0.avi
